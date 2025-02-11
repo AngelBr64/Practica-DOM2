@@ -2,7 +2,7 @@
   "name": "dom",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AngelBr64.github.io/dom/build",
+  "homepage": "https://AngelBr64.github.io/Practica-DOM2/build",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",

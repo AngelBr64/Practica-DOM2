@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dom/build/static/css/main.7c2bca4f.css",
-    "main.js": "/dom/build/static/js/main.966c31e8.js",
-    "static/js/488.9960069f.chunk.js": "/dom/build/static/js/488.9960069f.chunk.js",
-    "index.html": "/dom/build/index.html",
-    "main.7c2bca4f.css.map": "/dom/build/static/css/main.7c2bca4f.css.map",
-    "main.966c31e8.js.map": "/dom/build/static/js/main.966c31e8.js.map",
-    "488.9960069f.chunk.js.map": "/dom/build/static/js/488.9960069f.chunk.js.map"
+    "main.css": "/Practica-DOM2/build/static/css/main.7c2bca4f.css",
+    "main.js": "/Practica-DOM2/build/static/js/main.9c4536b3.js",
+    "static/js/488.9960069f.chunk.js": "/Practica-DOM2/build/static/js/488.9960069f.chunk.js",
+    "index.html": "/Practica-DOM2/build/index.html",
+    "main.7c2bca4f.css.map": "/Practica-DOM2/build/static/css/main.7c2bca4f.css.map",
+    "main.9c4536b3.js.map": "/Practica-DOM2/build/static/js/main.9c4536b3.js.map",
+    "488.9960069f.chunk.js.map": "/Practica-DOM2/build/static/js/488.9960069f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2bca4f.css",
-    "static/js/main.966c31e8.js"
+    "static/js/main.9c4536b3.js"
   ]
 }
